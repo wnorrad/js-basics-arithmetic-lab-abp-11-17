@@ -15,4 +15,4 @@ let randomNumber = Math.random () * 20
 
 let randomInteger = (Math.floor(randomNumber))
 
-let randomUserID = math.random (10000000010) * 1000000020 randomInteger
+randomUserID = randomInteger(math.random (10000000010) * 1000000020)
